@@ -36,6 +36,7 @@ h1 {
 
 .main-pic {
   margin-left: 27%;
+  /* okej to zdjecie niestety nie jest wysrodkowane, ale tego nie było na kursie.  */
   height: 500px;
   border-radius: 10%;
 }
